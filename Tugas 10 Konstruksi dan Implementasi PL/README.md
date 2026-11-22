@@ -60,9 +60,6 @@ Rental-Hub/
    npm run dev
    ```
    Buka: `http://localhost:3001`
-
-> Data SQLite/MySQL lama? Ikuti **Langkah Migrasi Database** di `DEPLOYMENT-VERCEL.md` (§2).
-
 ---
 
 ## Akun Demo Login Website Admin (`http://localhost:3001`)
