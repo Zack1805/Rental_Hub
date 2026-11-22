@@ -65,16 +65,6 @@ Rental-Hub/
 
 ---
 
-## Deploy ke Vercel
-
-Ringkasnya: buat **2 project Vercel** dari repo ini dengan Root Directory
-`ps-rental-admin` dan `ps-rental-client`, lalu isi env `DATABASE_URL`,
-`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`,
-`SUPABASE_SERVICE_ROLE_KEY` (+ `AUTH_SECRET` untuk admin).
-Langkah lengkap (build settings, pooling, checklist pasca-deploy): **[DEPLOYMENT-VERCEL.md](./DEPLOYMENT-VERCEL.md)**.
-
----
-
 ## Akun Demo Login Website Admin (`http://localhost:3001`)
 
 | Role (NFR-07) | Username | Password | Hak Akses |
