@@ -1,0 +1,18 @@
+{
+  "name": "ps-rental-admin",
+  "version": "2.0.0",
+  "private": true,
+  "description": "PS Rental Hub - Website Admin / Back-Office (React + Next.js App Router, SRS Kelompok 12 UNINDRA)",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 3001",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 3001"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "next": "14.2.15",
+    "pg": "^8.13.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
